@@ -385,7 +385,7 @@ int main(void)
 	srand((unsigned int)time(NULL));
 	system("mode con cols=58 lines=30");
 	system("color 9f");
-	system("title=Ã∞≥‘…ﬂ v7.0");
+	system("title=Ã∞≥‘…ﬂ v8.0");
 	Z_engine_start();
 	create_wall();
 	create_snake();
